@@ -474,4 +474,24 @@ input{
     gap: 20px;
     list-style: none;
 }
+@media (max-width:447px){
+    .box{
+        width: 90%;
+    }
+}
+@media (min-width:447.1px) and (max-width:769px){
+    .box{
+        width: 90%;
+    }
+}
+@media (min-width:769.1px) and (max-width:1200px){
+    .box{
+        width: 90%;
+    }
+}
+@media (min-width:1200.1px){
+    .box{
+        width: 90%;
+    }
+}
 
